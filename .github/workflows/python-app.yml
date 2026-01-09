@@ -4,9 +4,7 @@
 name: Python application
 
 on:
-
-  push:
-    workflow_call:
+  workflow_call:
 
 permissions:
   contents: read
